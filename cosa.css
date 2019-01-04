@@ -1,0 +1,16 @@
+.fondo{
+    background: #18BC9C;
+    color: white;
+}
+.linea{
+    border-top: solid 10px white;
+}
+
+.linea2{
+    border-top: solid 5px darkblue;
+    width: 50%;
+}
+.portfolio-texto{
+    color: darkblue;
+
+}
